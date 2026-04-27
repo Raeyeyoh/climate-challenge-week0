@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Raeyeyoh/climate-challenge-week0.git
 cd climate-challenge-week0
 python -m venv venv
 source venv/Scripts/activate
