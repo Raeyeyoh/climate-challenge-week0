@@ -10,3 +10,11 @@ source venv/Scripts/activate
 pip install -r requirements.txt
 ## Setup Complete
 ```
+
+## Streamlit Dashboard
+
+To run the dashboard locally:
+
+```bash
+streamlit run app/main.py
+```
